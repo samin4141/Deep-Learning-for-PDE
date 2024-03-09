@@ -1,0 +1,11 @@
+Xiaoliang Cheng, Xing Shen, Xilu Wang, Kewei Liang,
+A deep neural network-based method for solving obstacle problems,
+Nonlinear Analysis: Real World Applications,
+Volume 72,
+2023,
+103864,
+ISSN 1468-1218,
+https://doi.org/10.1016/j.nonrwa.2023.103864.
+(https://www.sciencedirect.com/science/article/pii/S1468121823000342)
+Abstract: In this paper, we propose a method based on deep neural networks to solve obstacle problems. By introducing penalty terms, we reformulate the obstacle problem as a minimization optimization problem and utilize a deep neural network to approximate its solution. The convergence analysis is established by decomposing the error into three parts: approximation error, statistical error and optimization error. The approximate error is bounded by the depth and width of the network, the statistical error is estimated by the number of samples, and the optimization error is reflected in the empirical loss term. Due to its unsupervised and meshless advantages, the proposed method has wide applicability. Numerical experiments illustrate the effectiveness and robustness of the proposed method and verify the theoretical proof.
+Keywords: Obstacle problems; Deep neural networks; Error analysis; Minimization optimization
